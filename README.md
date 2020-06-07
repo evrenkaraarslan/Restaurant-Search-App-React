@@ -1,4 +1,4 @@
-***Here you can find deployed version of this project http://evrenrestauran.surge.sh/***
+***Here you can find deployed version of this project http://evrenrestaurant.surge.sh/***
 
 ***With this web app you can search restaurants all around the world. Enjoy!***
 
